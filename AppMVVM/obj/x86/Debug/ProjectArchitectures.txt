@@ -1,0 +1,1 @@
+H:\Desarrollo de aplicaciones\C#\AppMVVM\AppMVVM\AppMVVM.csproj;x86
